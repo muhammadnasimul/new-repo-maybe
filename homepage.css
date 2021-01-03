@@ -41,7 +41,9 @@ li:hover {
 .posts {
   width: 30%;
   margin: 20px;
-  float: right;
+}
+.container {
+  float: left;
 }
 #postsdiv {
   width: 100%;
