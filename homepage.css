@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Audiowide&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap");
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+nav {
+  padding: 50;
+  margin-top: 0;
+  background-color: black;
+  height: 80px;
+  width: 100%;
+}
+li {
+  font-family: audiowide, sans-serif;
+  cursor: pointer;
+  float: right;
+  color: cornsilk;
+  list-style: none;
+  display: inline;
+  font-size: 1.2rem;
+  margin: 20px 8px;
+}
+li:hover {
+  color: #007cba;
+}
+.headline {
+  font-family: anton, sans-serif;
+  letter-spacing: 2;
+  font-size: 2.3rem;
+  text-align: center;
+}
+.posts {
+  width: 30%;
+  margin: 20px;
+  float: right;
+}
+#postsdiv {
+  width: 100%;
+  margin: auto;
+}
+h3 {
+  font-family: "Titillium Web";
+}
+img {
+  height: 225px;
+  width: 330px;
+}
+.postscolumn {
+  text-align: center;
+  width: 30%;
+  float: right;
+}
