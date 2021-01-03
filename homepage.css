@@ -15,9 +15,12 @@ nav {
   height: 80px;
   width: 100%;
 }
+ul {
+  margin: 0;
+}
 
 li {
-  font-family: audiowide, sans-serif;
+  font-family: anton, sans-serif;
   cursor: pointer;
   float: right;
   color: cornsilk;
@@ -56,4 +59,3 @@ img {
   width: 30%;
   float: right;
 }
-sinshab go ariyaa bandho shoraiyaa;
